@@ -91,7 +91,7 @@ jobs:
             renovate[bot]
             github-actions[bot]
           exempt-users: ""
-          exempt-author-association: "OWNER,MEMBER,COLLABORATOR"
+          exempt-author-association: ""
           exempt-label: "quality/exempt"
           exempt-pr-label: ""
           exempt-all-milestones: false
