@@ -10,7 +10,7 @@ services:
     image: actualbudget/actual-server:123
     environment:
       - SERVICE_URL_ACTUAL_5006
-      - ACTUAL_LOGIN_METHOD=passwords123
+      - ACTUAL_LOGIN_METHOD=password
     volumes:
       - actual_data:/datas
     healthcheck:
