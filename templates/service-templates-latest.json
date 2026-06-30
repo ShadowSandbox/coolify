@@ -10,7 +10,7 @@
             "open source"
         ],
         "category": "automation",
-        "logo": "svgs/activepiecessss.png",
+        "logo": "svgs/activepieces.png",
         "minversion": "0.0.0",
         "port": "80"
     },
