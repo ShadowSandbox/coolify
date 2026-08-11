@@ -3,7 +3,7 @@
         "cursor",
         "claude_code",
         "codex",
-        "opencode"
+        "opencode",
     ],
     "guidelines": true,
     "mcp": true,
